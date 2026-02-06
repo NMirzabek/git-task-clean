@@ -1,6 +1,6 @@
 Second line 1
-Second line 2
-Second line 3
+git_2 change line 2
+git_2 change line 3
 Second line 4
 Second line 5
 Second line 6
