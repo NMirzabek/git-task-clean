@@ -1,7 +1,7 @@
-Line 1
-Line 2
-Line 3
-Line 4
+git_1 edit A line 1
+git_1 edit A line 2
+git_1 edit B line 3
+git_1 edit B line 4
 Line 5
 Line 6
 Line 7
